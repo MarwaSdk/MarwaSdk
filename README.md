@@ -8,7 +8,7 @@
 
 ### Talk with me, I am kinda awesome:
 [<img align="left" alt="Marwa Sadkaoui | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkdin]
-[<img align="left" alt="Marwa Sadkaoui | Instragram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instragram.svg" />][Instagram]
+[<img align="left" alt="marwa_sadkaoui | Instragram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
 
 
 ### Languages and Tools:
