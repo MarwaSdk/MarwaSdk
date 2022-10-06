@@ -8,7 +8,7 @@
 
 ### Talk with me, I am kinda awesome:
 [<img align="left" alt="Marwa Sadkaoui | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="marwa_sadkaoui | Instragram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
+[<img align="left" alt="marwa_sadkaoui | Instragram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 ### Languages and Tools:
@@ -36,3 +36,6 @@
 
 <br />
 <br />
+
+[instagram]: https://www.instagram.com/marwa_sadkaoui/
+[linkedin]: https://www.linkedin.com/in/marwa-sadkaoui-2b1b54203/
