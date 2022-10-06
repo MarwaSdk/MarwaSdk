@@ -4,8 +4,10 @@
 - 👀 I’m interested in Artificiel intelligence, geospatial artificial intelligence,Big Data...
 - 🌱 I’m currently working on a project within Sagemcom company.
 - 💬 Ask me about ... Anything
-- 📫 How to reach me:
-- [<img align="left" alt="Marwa Sadkaoui | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+### Talk with me, I am kinda awesome:
+[<img align="left" alt="Marwa Sadkaoui | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
 
 ### Languages and Tools:
 
