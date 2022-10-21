@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Marwa Sadkaoui an ICT engineering student at Sup'Com
 - 👀 I’m interested in Artificiel intelligence, geospatial artificial intelligence,Big Data...
-- 🌱 I’m currently working on a project within Sagemcom company.
+- 🌱 I’m currently starting a new position as Intern at SAGEMCOM.
 - 💬 Ask me about ... Anything
 
 
